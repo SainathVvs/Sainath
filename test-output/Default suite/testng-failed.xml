@@ -3,11 +3,11 @@
 <suite parallel="none" name="Failed suite [Default suite]">
   <test parallel="none" name="Default test(failed)">
     <classes>
-      <class name="Test.API.Test1b">
+      <class name="Test.API.dataProviders">
         <methods>
-          <include name="search"/>
+          <include name="print"/>
         </methods>
-      </class> <!-- Test.API.Test1b -->
+      </class> <!-- Test.API.dataProviders -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
